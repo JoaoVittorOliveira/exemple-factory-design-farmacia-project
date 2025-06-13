@@ -1,0 +1,5 @@
+Cliente: teste
+Valor final da venda: R$ 90,00
+Pontos ganhos nesta venda: 9
+Pontos acumulados: 9
+======
