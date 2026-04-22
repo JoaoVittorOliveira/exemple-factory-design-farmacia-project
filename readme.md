@@ -14,7 +14,7 @@ Este é um projeto Java que simula um sistema de vendas para uma farmácia, com 
 
 * **Factory Method**: Para criar instâncias de vendas com ou sem desconto.
 
-## Estrutura de Pastas
+## Estrutura de Diretórios de Arquivos
 
 ```
 .
